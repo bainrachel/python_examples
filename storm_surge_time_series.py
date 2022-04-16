@@ -8,5 +8,3 @@ data file for teaching purposes.
 
 This script was written in Python 3.9.7.
 """
-
-
