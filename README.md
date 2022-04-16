@@ -1,2 +1,2 @@
 # python_examples
-Examples of Python code
+Contains examples of Python code and some mocked-up data to run them on!
